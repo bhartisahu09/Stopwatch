@@ -8,11 +8,7 @@ I have also added a background color of gray inside for the body.
 
 ### Effect of theme button (Light mode)
 
-<img src="Images/lightmode.png" height="400">
+<img src="Images/Screenshot.png" height="400">
 <br><br>
 
-### Effect of theme button (Dark mode)
 
-<img src="Images/darkmode.png" height="400">
-
-vanilla javascript is used for the logical part. jQuery and other frameworks are not used here
